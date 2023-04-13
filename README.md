@@ -18,7 +18,8 @@
 <p>10. Pagination feature implemented (using AJAX), with AJAX-based removal of products from the shopping cart.
 
 # INSTALLATION INSTRUCTIONS
-<p>Create and configure Web.config: Based on the Web.config.example file, create a new file named Web.config. The content in Web.config should be similar to Web.config.example. After completing this step, you will need to configure the necessary information in the Web.config file.
+## Create and configure Web.config: 
+<p>Based on the Web.config.example file, create a new file named Web.config. The content in Web.config should be similar to Web.config.example. After completing this step, you will need to configure the necessary information in the Web.config file.
 <p>Step 1: Configure SQL Server connection strings.
 <p>Create a database in SQL Server.
 <p>Fill in the correct information for your SQL Server.
@@ -27,6 +28,8 @@
 ![image](https://user-images.githubusercontent.com/80302795/231717266-f56bf3e6-7499-4d9d-9cf3-939019eab2fb.png)
 <p>Step 3: Configure email sending using SMTP.
 ![image](https://user-images.githubusercontent.com/80302795/231717435-c28baa08-bf0c-4778-8427-386280f7547c.png)
+
+## Run the setup function.
 <p>To run the setup function, execute the source code and access the following URL:
 http[s]://hostname:[port]/Install/Index
 <p>For example: https://localhost:8888/Install/Index.
