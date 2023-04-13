@@ -23,11 +23,11 @@
 <p>Step 1: Configure SQL Server connection strings.</p>
 <p>Create a database in SQL Server.</p>
 <p>Fill in the correct information for your SQL Server.</p>
-![image](https://user-images.githubusercontent.com/80302795/231717051-6701204e-05fb-47b8-8969-42225d57d9b6.png)
+<img src="https://user-images.githubusercontent.com/80302795/231725847-dd84b9f6-7b12-416e-a796-0992d2a32f1b.png"/> 
 <p>Step 2: Configure Google login.</p>
-![image](https://user-images.githubusercontent.com/80302795/231717266-f56bf3e6-7499-4d9d-9cf3-939019eab2fb.png)
+<img src="https://user-images.githubusercontent.com/80302795/231717266-f56bf3e6-7499-4d9d-9cf3-939019eab2fb.png"/>
 <p>Step 3: Configure email sending using SMTP.</p>
-![image](https://user-images.githubusercontent.com/80302795/231717435-c28baa08-bf0c-4778-8427-386280f7547c.png)
+<img src="https://user-images.githubusercontent.com/80302795/231717266-f56bf3e6-7499-4d9d-9cf3-939019eab2fb.png"/>
 
 ## Run the setup function.
 <p>To run the setup function, execute the source code and access the following URL:</p>
